@@ -1,10 +1,10 @@
 # Hi, I'm Rory
 
-I'm a PhD Researcher at the University of Plymouth, UK. I have a range of interests that include **psychology**, **data science**, and **R programming**.
+I'm a Behavioural Data Scientist at Good With, a startup focused on improving financial wellbeing in young adults. I'm also finishing up my PhD in psychology at the University of Plymouth, UK.
 
-I mostly maintain private repos relating to my research, but also I host and collaborate on some public R programming projects.
+I mostly maintain private repos relating to my psychological research on this account, but I also host and collaborate on some public projects here.
 
-For more information about me and my academic work, visit my personal website at [roryspanton.com](www.roryspanton.com). For my writing, check out my [Medium page](https://medium.com/@roryspanton). 
+For more information about me, visit my website at [roryspanton.com](www.roryspanton.com). For my writing, check out my [Medium page](https://medium.com/@roryspanton). 
 
 <!---
 roryspanton/roryspanton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
